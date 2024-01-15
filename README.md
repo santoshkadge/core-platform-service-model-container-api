@@ -87,4 +87,5 @@ Flask - The web framework used.
 Python - Programming language.
 
 
-Authors
+## Author
+Santosh Kadge
